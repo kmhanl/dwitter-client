@@ -1,2 +1,2 @@
-사이트 주소 : https://port-0-dwitter-client-6g2llfm172tx.sel3.cloudtype.app/
+사이트 주소 : http://3.39.187.170:4000
 <br>구현 기능 : 로그인, 회원가입, 채팅 추가/수정/삭제
